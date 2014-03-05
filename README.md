@@ -8,4 +8,4 @@ Explore the new DataBinding Features in WPF 4.5. This code is for the Article in
 * Date: March 5, 2014
 * Version: 0.0.1
 * Website: [DNC Magazine](http://www.dncmagazine.com)
-* GitHub: [DNC Magazine on Github](https://github.com/dotnetcurry/wpf-data-binding-features)
+* GitHub: [DNC Magazine on Github](https://github.com/dotnetcurry/wpf-data-binding-features-dncmag-11)
